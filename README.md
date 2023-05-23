@@ -17,4 +17,5 @@ I will be following along with the following video initially:
 7. React is only a library and NOT a framework (like Angular or Vue). It is good at building user interfaces
 8. It is typically good practice to put all components in a folder called components.
 9. **Bootstrap**: Useful CSS framework for front-end development.
-10. 
+10. **Props**: Properties; input passed to a component similar to function args. Should treat as immutable. Will cause a re-rendering.
+11. **State**: Data managed by a component similar to a local variable. Can treat as mutable. Will cause a re-rendering.
