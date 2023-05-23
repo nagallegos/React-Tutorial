@@ -20,10 +20,10 @@ I will be following along with the following video initially:
 10. **Props**: Properties; input passed to a component similar to function args. Should treat as immutable. Will cause a re-rendering.
 11. **State**: Data managed by a component similar to a local variable. Can treat as mutable. Will cause a re-rendering.
 12. 4 Pillars of OOP:
-  1. Abstraction
-  2. Encapsulation
-  3. inheritance
-  4. polymorphism
+    1. Abstraction
+    2. Encapsulation
+    3. inheritance
+    4. polymorphism
 13. Abstraction: hiding all of the relevent data of an object to reduce complexity
 14. Encapsulation: hides internal state of an object to prevent unauthorized access to data
 15. Inheritance: one class derives from another and has access to all public variables and methods from the parents
